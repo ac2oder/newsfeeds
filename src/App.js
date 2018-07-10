@@ -1,3 +1,4 @@
+//изменил
 import React from 'react';
 import PropTypes from 'prop-types';
 import Sources from './Sources';
